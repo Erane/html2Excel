@@ -14,8 +14,8 @@ npm i xlsx
 ```
 
 ```JavaScript
-
-import html2Excel from 'html2Excel';
+// 不依赖Vue,但依赖ES6
+import html2Excel from 'html2Excel'; 
 
 
 
